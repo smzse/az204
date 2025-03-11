@@ -1,3 +1,5 @@
+![Projects for AZ-204](../main/scenario.png)
+
 ### 1\. Develop Azure compute solutions (25--30%)
 
 -   Azure Container Registry
